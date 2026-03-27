@@ -1,0 +1,5 @@
+{
+  "name": "AI Sports Analyst Pro",
+  "description": "Professional sports data analysis tool for football goal markets and match odds, utilizing Gemini 3 for precise pre-live and live diagnostics.",
+  "requestFramePermissions": []
+}
